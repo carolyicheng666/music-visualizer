@@ -1,7 +1,20 @@
-npm install -g express-generator
+express 音乐可视化
 
-npm install -g supervisor
+How to use
+---
 
-实时监听 express bin/www
+``` bash
+$ npm install -g express-generator
 
-默认3000端口 http://127.0.0.1:3000
+$ npm install -g supervisor
+
+$ npm install
+```
+
+``` bash
+$ npm start
+```
+
+默认3000端口 [http://127.0.0.1:3000](http://127.0.0.1:3000)
+
+更多语法请参考[http://www.expressjs.com.cn/](http://www.expressjs.com.cn/)
